@@ -15,6 +15,12 @@
 - All the tasks will appear in the form of list with "Completed" and "Delete" options. Complete option can be used when the task in completed, by clicking on it , it wil change text into strikedtext. delete option can be used to delete the task from the list. 
 - You can also select the option to view the list of only "completed" or "uncompleted" tasks.
 ## Screenshots
+![image](https://user-images.githubusercontent.com/93713996/182187172-be702672-632b-47ce-9ba4-9662d86aa01d.png)
+- on selecting only "completed" option.
+![image](https://user-images.githubusercontent.com/93713996/182187395-803a06c8-f592-4e96-a847-90d8ed1d4995.png)
+- on selecting "uncompleted" option.
+![image](https://user-images.githubusercontent.com/93713996/182187560-b8504e7f-95ec-4495-9e5b-f5abe5205ff4.png)
+
 ## Contact
 ## Acknowledgements
 
