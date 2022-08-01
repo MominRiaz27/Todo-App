@@ -1,4 +1,4 @@
-> Project's Title
+> Project Title
 # Todo-App
 # Project Description
 > In this project you can maintain/manage your todo tasks activities. You can write your activites/tasks that you want to do and add them, Which are then displayed in the form of list. you can also remove the tasks that are completed.
@@ -20,7 +20,9 @@
 ![image](https://user-images.githubusercontent.com/93713996/182187863-e29cd364-0052-47a7-89db-511b7fe6aba0.png)
 - on selecting "uncompleted" option.
 ![image](https://user-images.githubusercontent.com/93713996/182187560-b8504e7f-95ec-4495-9e5b-f5abe5205ff4.png)
-
-## Contact
 ## Acknowledgements
+- This project is learned from Dev Ed (https://www.youtube.com/c/DevEd)
+- https://www.youtube.com/watch?v=pCA4qpQDZD8
+## Contact
+- Gmail: Momin.Riaz427@gmail.com
 
