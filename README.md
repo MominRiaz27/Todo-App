@@ -17,7 +17,7 @@
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/93713996/182187172-be702672-632b-47ce-9ba4-9662d86aa01d.png)
 - on selecting only "completed" option.
-![image](https://user-images.githubusercontent.com/93713996/182187395-803a06c8-f592-4e96-a847-90d8ed1d4995.png)
+![image](https://user-images.githubusercontent.com/93713996/182187863-e29cd364-0052-47a7-89db-511b7fe6aba0.png)
 - on selecting "uncompleted" option.
 ![image](https://user-images.githubusercontent.com/93713996/182187560-b8504e7f-95ec-4495-9e5b-f5abe5205ff4.png)
 
