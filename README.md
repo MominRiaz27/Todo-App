@@ -20,9 +20,7 @@
 ![image](https://user-images.githubusercontent.com/93713996/182187863-e29cd364-0052-47a7-89db-511b7fe6aba0.png)
 - on selecting "uncompleted" option.
 ![image](https://user-images.githubusercontent.com/93713996/182187560-b8504e7f-95ec-4495-9e5b-f5abe5205ff4.png)
-## Acknowledgements
-- This project is learned from Dev Ed (https://www.youtube.com/c/DevEd)
-- https://www.youtube.com/watch?v=pCA4qpQDZD8
+
 ## Contact
 - Gmail: Momin.Riaz427@gmail.com
 
